@@ -1,0 +1,27 @@
+1. queries in single order details page : communication between adjucation team and hospital
+that communication will be on ticket level between hospital user and hubspot
+
+Question: how to send data from hubspot to front end.
+
+2. how will the details appear, how will the ticket look like in dashboard,
+
+3. how can hospital raise new ticket, how will user upload documents in dashboard, how hospital user add new user
+
+4. ticket will aways will lend in pre admission documents, then digitization team will review.
+
+pre_admission_document_received.
+
+once it is  approved, primary approval ->  waiting for hospital admission->
+
+
+scenario 1: tratment 10 days from now, 
+scenario 2: treatment today
+s3: tretment started yesterday/5 days back (customer still in hospital)
+
+s5: discharge done yesterday, or 10 days back
+
+
+
+
+
+
