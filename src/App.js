@@ -26,6 +26,7 @@ const checkDateInPast = (date) => {
   const d = new Date(date)
   console.log('d', d)
   console.log(date, 'day')
+  console.log('date is not needed')
   // console.log(date, 'd')
   // const d = new Date(date.replace(/-/g, '/').replace(/T.+/, ''))
   // console.log(d, 'date')
