@@ -3,7 +3,7 @@ import { Input } from './components/Input'
 import './App.css'
 
 const initialstate = {
-  flag: true,
+  flag: false,
   searchTerm: '',
 }
 
