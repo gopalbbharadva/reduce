@@ -16,10 +16,6 @@ const searchReducer = (state, action) => {
   }
 }
 
-const Hello = () => {
-  return <div>Hi gopal</div>
-}
-
 const checkDateInPast = (date) => {
   // const arr = date.split('T')
   // console.log('arr', arr)
